@@ -7,7 +7,11 @@ public static void main(String[] args) {
 	System.out.println("hi again");
 	System.out.println("hhh ss vvss");
 	
+<<<<<<< HEAD
 	System.out.println("hhhhiiiiiiiii");
 /*	sou slash*/
+=======
+	/*System.out.println("hhhhiiiiiiiii")*/
+>>>>>>> stash
 }
 }
